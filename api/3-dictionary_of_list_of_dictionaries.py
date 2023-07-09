@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module"""
+"""Exports data in JSON format"""
 
 if __main__ == "__main__":
 
